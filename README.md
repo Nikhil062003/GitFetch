@@ -1,2 +1,2 @@
-# GitFetch
-Unleashing User Insights through GitHub API Username Extraction
+# Pull-Data
+Pulling data from WEB API, using AJAX(Asynchronous JavaScript And XML.) 

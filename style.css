@@ -1,0 +1,42 @@
+
+
+*{margin:10px;padding:5px;}
+  
+  
+  h1{
+    font-size:70px;
+  } 
+
+body{
+    /* background-image:url("https://t4.ftcdn.net/jpg/02/99/84/89/360_F_299848927_S0EwX0P6HWGigW6qZWFIBaczKMQuq5D9.jpg"); */
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size:cover;                      
+   
+
+    
+  }
+#div1{
+   overflow-y: auto;
+    background-color: blueviolet;
+    height: auto;
+    width:auto;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-radius:20px;
+}
+
+#pull{
+  cursor: pointer;
+  font-weight:bolder;
+  
+}
+
+#div1 > h3{
+  margin-top: 0px;
+}
+
+#input{
+  outline: none;
+}
