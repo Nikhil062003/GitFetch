@@ -23,7 +23,7 @@ else{
     let obj=JSON.parse(request.responseText);
    
       img.setAttribute("src",obj.avatar_url);
-      login.innerHTML=`${obj.name} @${obj.login}`;
+      login.innerHTML=`${obj.name} @${obj.login}`<a href="https://github.com/Nikhil062003">visit<a/>
       following.innerHTML="Following:- "+obj.following;
       followers.innerHTML="Followers:- "+obj.followers;
      
